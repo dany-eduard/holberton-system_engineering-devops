@@ -1,0 +1,17 @@
+.TH man 2 "10 Sep 2020" "1.0" "101-man_holberton man page"
+.SH NAME
+.B eniac
+\- the first electronic general-porpose digital computer. 
+.SH SYNOPSIS
+eniac [USERNAME]
+.SH DESCRIPTION
+Eniac was Turning-complete, and able to solve "a large of numerical problems" through reprograming.
+.SH OPTIONS
+.B Eniac
+dos not take any options.
+.SH SEE ALSO
+ENIAC could be program to perform complex sequences of operations(2), including loops(2), brnaches(2), and subroutime(2). 
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Daniel Eduardo Almagro (GitHub: dany-eduard)
