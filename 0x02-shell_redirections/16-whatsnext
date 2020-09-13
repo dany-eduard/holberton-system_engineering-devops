@@ -1,2 +1,2 @@
 #!/bib/bash
-grep -A 3 "root" /etc/passwd
+cat /etc/passwd | grep -A 3 "root"
