@@ -1,6 +1,0 @@
-#!/bin/bash
-<<<<<<< HEAD
-tr a-zA-Z n-za-mN-mN-ZA-M
-=======
-tr 'a-zA-Z' 'n-za-mN-ZA-M' '\n'
->>>>>>> ece2f970b70ff0b06bd9b1a21047936e6a6d8f1c
