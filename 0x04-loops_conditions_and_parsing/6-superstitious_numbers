@@ -6,12 +6,16 @@
 I=1
 while [ $I -le 20 ]; do
 	echo $I
-	if [ $I == 4 ]; then
-		echo "bad luck from China"
-	elif [ $I == 9 ]; then
-		echo "bad luck from Japan"
-	elif [ $I == 17 ]; then
-		echo "bad luck from Italy"
-	fi
+	case "$I" in
+		4)
+			echo "bad luck from China"
+		;;
+		9)
+			echo "bad luck from Japan"
+		;;
+		17)
+			echo "bad luck from Italy"
+		;;
+	esac
 	((I++))
 done
