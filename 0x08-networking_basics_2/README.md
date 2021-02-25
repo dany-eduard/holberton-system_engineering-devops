@@ -9,6 +9,7 @@
 <li><a href="https://en.wikipedia.org/wiki/0.0.0.0" title="What is 0.0.0.0" target="_blank">What is 0.0.0.0</a> </li>
 <li><a href="https://www.makeuseof.com/tag/modify-manage-hosts-file-linux/" title="What is the hosts file" target="_blank">What is the hosts file</a> </li>
 <li><a href="https://www.thegeekstuff.com/2012/04/nc-command-examples/" title="Netcat examples" target="_blank">Netcat examples</a> </li>
+<li><a href="https://www.varonis.com/blog/netcat-commands/" title="How to Use Netcat Commands: Examples and Cheat Sheets" target="_blank">How to Use Netcat Commands: Examples and Cheat Sheets</li>
 </ul>
 
 <p><strong>Man or help</strong>:</p>
