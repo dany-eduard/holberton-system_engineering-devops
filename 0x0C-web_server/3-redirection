@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Install nginx web server
+# and redirection /redirect_me
+sudo apt-get -y update
+sudo apt-get -y install nginx
+echo "Holberton School" > /var/www/html/index.html
+URL="\\\trewrite ^/redirect_me https://github.com/dany-eduard permanent;"
+sudo sed -i "42i $URL" /etc/nginx/sites-available/default
+sudo service nginx restart
