@@ -8,31 +8,31 @@
 
 <ul>
     <li>
-    <a href="/concepts/12">DNS</a>
+    <a href="https://intranet.hbtn.io/concepts/12">DNS</a>
     </li>
     <li>
-    <a href="/concepts/17">Web Server</a>
+    <a href="https://intranet.hbtn.io/concepts/17">Web Server</a>
     </li>
     <li>
-    <a href="/concepts/43">CI/CD</a>
+    <a href="https://intranet.hbtn.io/concepts/43">CI/CD</a>
     </li>
     <li>
-    <a href="/concepts/65">Docker</a>
+    <a href="https://intranet.hbtn.io/concepts/65">Docker</a>
     </li>
     <li>
-    <a href="/concepts/68">Web stack debugging</a>
+    <a href="https://intranet.hbtn.io/concepts/68">Web stack debugging</a>
     </li>
     <li>
-    <a href="/concepts/110">What is a Child Process?</a>
+    <a href="https://intranet.hbtn.io/concepts/110">What is a Child Process?</a>
     </li>
     <li>
-    <a href="/concepts/124">DevOps</a>
+    <a href="https://intranet.hbtn.io/concepts/124">DevOps</a>
     </li>
     <li>
-    <a href="/concepts/125">System Administration</a>
+    <a href="https://intranet.hbtn.io/concepts/125">System Administration</a>
     </li>
     <li>
-    <a href="/concepts/126">Site Reliability Engineering</a>
+    <a href="https://intranet.hbtn.io/concepts/126">Site Reliability Engineering</a>
     </li>
 </ul>
 
