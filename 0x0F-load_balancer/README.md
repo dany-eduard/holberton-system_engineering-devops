@@ -1,7 +1,9 @@
 # 0x0F. Load balancer
 
-<h2>Concepts</h2>
+![image](https://user-images.githubusercontent.com/54107524/114489800-5fa83600-9bd9-11eb-93ec-e8bbcad8649c.png)
 
+
+<h2>Concepts</h2>
 
 <p>
 <em>For this project, students are expected to look at these concepts:</em>
@@ -15,9 +17,6 @@
     <a href="https://intranet.hbtn.io/concepts/68">Web stack debugging</a>
     </li>
 </ul>
-
-
-<p><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/275/qfdked8.png" alt="" style="" /></p>
 
 <h2>Background Context</h2>
 
